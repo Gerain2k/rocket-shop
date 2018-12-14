@@ -9,6 +9,7 @@
   "author": "Germans G,",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.6.1",
     "moment": "^2.23.0",
     "underscore": "^1.9.1"
   },
