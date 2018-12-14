@@ -9,6 +9,10 @@
   "author": "Germans G,",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.23.0",
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "sinon": "^7.2.2"
   }
 }
